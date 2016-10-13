@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/datamodel/countries/Polygon.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/geojson/RawCountry.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/geojson/RawGeometry.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/wdi/WDIIndicatorsDecoder.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/geojson/NEGeoJsonDecoder.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/geojson/RawProperties.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/view/testJPanel.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/view/Draw.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/csvsample/NECSVDecoder.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/datamodel/countries/Country.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/datamodel/DataManager.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/Launch.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/view/MainFrame.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/datamodel/countries/WorldRegions.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/wdi/RawWDIIndicator.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/datamodel/countries/Geometry.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/datamodel/countries/GeoPoint.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/wdi/WDIDataDecoder.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/wdi/RawWDIData.java</file>
+            <file>file:/C:/Users/Sébastien%20Hu/Downloads/INF%205103C/INF%205103C/Cours%20ESIEE%202016/Jour%201/ESIEE-IHM-2016/Base/src/com/esiee/mbdaihm/dataaccess/csvsample/CSVCountry.java</file>
+        </group>
+    </open-files>
+</project-private>
