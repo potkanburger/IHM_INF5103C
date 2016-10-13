@@ -59,9 +59,15 @@ public class WDIDataDecoder
             RawWDIData data = readValues.next();
             if (data.indicatorCode.equals(indicatorCode))
             {
-                result.add(data);
-                inCount++;
+                Country country = DataManager.INSTANCE.getCountryByCode(data.countryCode);
 
+                if (country != null)
+                {
+                    result.add(data);
+                    inCount++;
+                }
+                
+/*
                 // Safety check if we have the country code in our data
                 Country country = DataManager.INSTANCE.getCountryByCode(data.countryCode);
 
@@ -82,10 +88,11 @@ public class WDIDataDecoder
                     DataManager.INSTANCE.getCountryByCode(data.countryCode).
                             setIndicatorValue(Double.parseDouble(data.value1993));
                 }
+                
+                */
             }
-
         }
-
+                
         long out = System.nanoTime();
 /*
         System.err.println("Data decoding time = " + (out - in) / (1000 * 1000) + " ms.");

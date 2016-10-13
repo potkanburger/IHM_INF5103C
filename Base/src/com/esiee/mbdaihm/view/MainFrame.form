@@ -13,7 +13,6 @@
           <SubComponents>
             <MenuItem class="javax.swing.JCheckBoxMenuItem" name="region_europe">
               <Properties>
-                <Property name="selected" type="boolean" value="true"/>
                 <Property name="text" type="java.lang.String" value="Europe"/>
               </Properties>
               <Events>
@@ -22,7 +21,6 @@
             </MenuItem>
             <MenuItem class="javax.swing.JCheckBoxMenuItem" name="region_asie">
               <Properties>
-                <Property name="selected" type="boolean" value="true"/>
                 <Property name="text" type="java.lang.String" value="Asie"/>
               </Properties>
               <Events>
@@ -31,25 +29,21 @@
             </MenuItem>
             <MenuItem class="javax.swing.JCheckBoxMenuItem" name="region_afrique">
               <Properties>
-                <Property name="selected" type="boolean" value="true"/>
                 <Property name="text" type="java.lang.String" value="Afrique"/>
               </Properties>
             </MenuItem>
             <MenuItem class="javax.swing.JCheckBoxMenuItem" name="region_nord_amerique">
               <Properties>
-                <Property name="selected" type="boolean" value="true"/>
                 <Property name="text" type="java.lang.String" value="Am&#xe9;rique du Nord"/>
               </Properties>
             </MenuItem>
             <MenuItem class="javax.swing.JCheckBoxMenuItem" name="region_sud_amerique">
               <Properties>
-                <Property name="selected" type="boolean" value="true"/>
                 <Property name="text" type="java.lang.String" value="Am&#xe9;rique du Sud"/>
               </Properties>
             </MenuItem>
             <MenuItem class="javax.swing.JCheckBoxMenuItem" name="jCheckBoxMenuItem1">
               <Properties>
-                <Property name="selected" type="boolean" value="true"/>
                 <Property name="text" type="java.lang.String" value="Oc&#xe9;anie"/>
               </Properties>
             </MenuItem>

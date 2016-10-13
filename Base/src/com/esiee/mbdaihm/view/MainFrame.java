@@ -82,7 +82,6 @@ public class MainFrame extends javax.swing.JFrame {
 
         menu_region.setText("Région");
 
-        region_europe.setSelected(true);
         region_europe.setText("Europe");
         region_europe.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -91,7 +90,6 @@ public class MainFrame extends javax.swing.JFrame {
         });
         menu_region.add(region_europe);
 
-        region_asie.setSelected(true);
         region_asie.setText("Asie");
         region_asie.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -100,19 +98,15 @@ public class MainFrame extends javax.swing.JFrame {
         });
         menu_region.add(region_asie);
 
-        region_afrique.setSelected(true);
         region_afrique.setText("Afrique");
         menu_region.add(region_afrique);
 
-        region_nord_amerique.setSelected(true);
         region_nord_amerique.setText("Amérique du Nord");
         menu_region.add(region_nord_amerique);
 
-        region_sud_amerique.setSelected(true);
         region_sud_amerique.setText("Amérique du Sud");
         menu_region.add(region_sud_amerique);
 
-        jCheckBoxMenuItem1.setSelected(true);
         jCheckBoxMenuItem1.setText("Océanie");
         menu_region.add(jCheckBoxMenuItem1);
 
